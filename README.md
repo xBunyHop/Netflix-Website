@@ -1,7 +1,7 @@
 # Netflix Website 
 I was bored so I made this. <br />
 You are allowed to use this however you want.<br />
-Hope you enjoy :D.
+Hope you like it :D.
 
 ## Content:
 - Custom Cursor <img width="25" height="25" align="left" style="float: left; margin: 0 10px 0 0;" alt="Pointer" src="https://i.imgur.com/16ve4GY.png">
