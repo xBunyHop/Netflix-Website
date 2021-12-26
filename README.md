@@ -28,11 +28,13 @@ https://i.imgur.com/Jr2bkp9.png
 
 
 * **Additional Info**
+<br />
 When i was making this website I've used opera gx, 75% view.
+<br />
 I suggest you using the same when checking it out. (Website isn't transparent)
 
-All the banners & descriptions were obtained from original [Netflix](https://netflix.com) website.
-Some of the  designs are inspired by [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) & [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) youtube channels.
+All the banners & descriptions were obtained from original [Netflix](https://netflix.com) website.<br />
+Some of the  designs are inspired by [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) & [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) youtube channels.<br />
 Background .svg files are made by [Nouridio](https://github.com/Nouridio)
 
 Discord: xBunnyHop#4563
