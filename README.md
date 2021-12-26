@@ -1,4 +1,4 @@
-#Netflix Website 
+# Netflix Website 
 I was bored so I made this. Hope you enjoy :D.
 
 ## Content:
@@ -15,7 +15,7 @@ I was bored so I made this. Hope you enjoy :D.
 
 
 ## Categories 📑
-#- [x] Home
+- [x] Home
 https://i.imgur.com/lGA53ky.png
 - [x] About
 https://i.imgur.com/4BEjxpy.png
@@ -36,5 +36,7 @@ Some of the  designs are inspired by [Web Dev Simplified](https://www.youtube.co
 Background .svg files are made by [Nouridio](https://github.com/Nouridio)
 
 Discord: xBunnyHop#4563
+<br />
 Twitter: [@xBunHop](https://twitter.com/xBunHop)
+<br />
 Youtube: [xBunnyHop](https://www.youtube.com/channel/UCwGGJYZcOWM8wpKYFhahJWw)
