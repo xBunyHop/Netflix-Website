@@ -16,15 +16,15 @@ I was bored so I made this. Hope you enjoy :D.
 
 ## Categories 📑
 - [x] Home
-https://i.imgur.com/lGA53ky.png
+<img src="https://i.imgur.com/lGA53ky.png">
 - [x] About
-https://i.imgur.com/4BEjxpy.png
+<img src="https://i.imgur.com/4BEjxpy.png">
 - [x] Movies
-https://i.imgur.com/GvdeUXt.png
+<img src="https://i.imgur.com/GvdeUXt.png">
 - [x] TV Shows
-https://i.imgur.com/uIPhRcb.png
+<img src="https://i.imgur.com/uIPhRcb.png">
 - [X] Plans
-https://i.imgur.com/Jr2bkp9.png
+<img src="https://i.imgur.com/Jr2bkp9.png">
 
 
 ## Additional Info
