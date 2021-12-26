@@ -18,13 +18,13 @@ I was bored so I made this. Hope you enjoy :D.
 **Home**
 <img src="https://i.imgur.com/e4ylY8G.png">
 **About**
-<img src="https://i.imgur.com/4BEjxpy.png">
+<img src="https://i.imgur.com/F3OrbhT.png">
 **Movies**
-<img src="https://i.imgur.com/GvdeUXt.png">
+<img src="https://i.imgur.com/KLLVBzN.png">
 **TV Shows**
 <img src="https://i.imgur.com/uIPhRcb.png">
 **Plans**
-<img src="https://i.imgur.com/Jr2bkp9.png">
+<img src="https://i.imgur.com/G9rZHWr.png">
 
 
 ## Additional Info
