@@ -15,15 +15,15 @@ I was bored so I made this. Hope you enjoy :D.
 
 
 ## Categories 📑
-- [x] Home
-<img src="https://i.imgur.com/lGA53ky.png">
-- [x] About
+**Home**
+<img src="https://i.imgur.com/81QsOB8.png">
+**About**
 <img src="https://i.imgur.com/4BEjxpy.png">
-- [x] Movies
+**Movies**
 <img src="https://i.imgur.com/GvdeUXt.png">
-- [x] TV Shows
+**TV Shows**
 <img src="https://i.imgur.com/uIPhRcb.png">
-- [X] Plans
+**Plans**
 <img src="https://i.imgur.com/Jr2bkp9.png">
 
 
