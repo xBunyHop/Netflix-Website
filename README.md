@@ -33,12 +33,12 @@ When i was making this website I've used opera gx, 75% view.
 <br />
 I suggest you using the same when checking it out. (Website isn't transparent)
 <br /><br />
-All the banners & descriptions were obtained from original [Netflix](https://netflix.com) website.<br />
-Some of the  designs are inspired by [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) & [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) youtube channels.<br />
-Background .svg files are made by [Nouridio](https://github.com/Nouridio)
+All the banners & descriptions were obtained from original <a href="https://netflix.com">Netflix</a> website.<br />
+Some of the  designs are inspired by <a href="https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw">Web Dev Simplified</a> & <a href="https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog">Online Tutorials</a> youtube channels.<br />
+Background .svg files are made by <a href="https://github.com/Nouridio">Nouridio</a>
 <br />
 Discord: xBunnyHop#4563
 <br />
-Twitter: [@xBunHop](https://twitter.com/xBunHop)
+Twitter: 
 <br />
-Youtube: [xBunnyHop](https://www.youtube.com/channel/UCwGGJYZcOWM8wpKYFhahJWw)
+Youtube: <a href="https://www.youtube.com/channel/UCwGGJYZcOWM8wpKYFhahJWw">xBunnyHop</a>
