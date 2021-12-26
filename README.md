@@ -16,7 +16,7 @@ I was bored so I made this. Hope you enjoy :D.
 
 ## Categories 📑
 **Home**
-<img src="https://i.imgur.com/81QsOB8.png">
+<img src="https://i.imgur.com/e4ylY8G.png">
 **About**
 <img src="https://i.imgur.com/4BEjxpy.png">
 **Movies**
