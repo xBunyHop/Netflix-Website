@@ -10,7 +10,7 @@ Hope you like it :D.
 - Animated Buttons
 - Sticky (Animated) Navigation Bar
 - Animated (Wavy) Text Headers 
-- Movie Cards (Banners & Descriptions) 
+- Animated Movie Cards (Banners & Descriptions) 
 - TV Shows (Netflix Series) slider
 - Price Comparison (Netflix Subscription Plans)
 
