@@ -29,7 +29,7 @@ I was bored so I made this. Hope you enjoy :D.
 
 ## Additional Info
 <br />
-When i was making this website I've used opera gx, 75% view.
+When i was making this website I used Opera, 75% view. (Resolution ~ 1300x700)
 <br />
 I suggest you using the same when checking it out. (Website isn't transparent)
 <br /><br />
