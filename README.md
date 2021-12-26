@@ -2,7 +2,7 @@
 I was bored so I made this. Hope you enjoy :D.
 
 ## Content:
-- Custom Cursor <img width="25" height="25" align="left" style="float: left; margin: 0 10px 0 0;" alt="Pointer" src="https://i.imgur.com/16ve4GY.png"> <img width="25" height="25" align="left" style="float: left; margin: 0 10px 0 0;" alt="Clicked" src="https://i.imgur.com/VUBOBkE.png> 
+- Custom Cursor <img width="25" height="25" align="left" style="float: left; margin: 0 10px 0 0;" alt="Pointer" src="https://i.imgur.com/16ve4GY.png">
 - Custom Scroll Bar
 - Scroll To Top Button
 - Animated Buttons
