@@ -1,6 +1,4 @@
 # Netflix Website 
-I was bored so I made this. <br />
-You are allowed to use this however you want.<br />
 Hope you like it :D.
 
 ## Content:
@@ -31,7 +29,9 @@ Hope you like it :D.
 
 ## Additional Info
 <br />
-When i was making this website I used Opera, 75% view. (Resolution ~ 1300x700)
+You are allowed to use this however you want.<br />
+<br />
+When I was making this website I used Opera GX, 75% view. (Resolution ~ 1300x700)
 <br />
 I suggest you using the same when checking it out. (Website isn't transparent)
 <br />
