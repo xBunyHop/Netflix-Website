@@ -38,7 +38,7 @@ I suggest you using the same when checking it out. (Website isn't transparent)
 I was unable to upload files via github desktop so I had to upload them manually as a zip archive. (Sorry about that)
 <br /><br />
 All the banners & descriptions were obtained from original <a href="https://netflix.com">Netflix</a> website.<br />
-Some of the  designs are inspired by <a href="https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw">Web Dev Simplified</a> & <a href="https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog">Online Tutorials</a> youtube channels.<br />
+Some of the  designs were inspired by <a href="https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw">Web Dev Simplified</a> & <a href="https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog">Online Tutorials</a> youtube channels.<br />
 Background .svg files were made by <a href="https://github.com/Nouridio">Nouridio</a>
 <br /><br />
 Discord: xBunnyHop#4563
