@@ -41,8 +41,5 @@ All the banners & descriptions were obtained from original <a href="https://netf
 Some of the  designs were inspired by <a href="https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw">Web Dev Simplified</a> & <a href="https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog">Online Tutorials</a> youtube channels.<br />
 Background .svg files were made by <a href="https://github.com/Nouridio">Nouridio</a>
 <br /><br />
-Discord: xBunnyHop#4563
-<br />
-Twitter: <a href="https://twitter.com/xBunHop">@xBunHop</a>
-<br />
-Youtube: <a href="https://www.youtube.com/channel/UCwGGJYZcOWM8wpKYFhahJWw">xBunnyHop</a>
+
+Keep in mind that this is very badly written code and shouldn't really be used. I was learing CSS at the time and had some fun making this website.
